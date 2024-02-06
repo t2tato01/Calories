@@ -2,6 +2,9 @@
 
 This Android app calculates calorie consumption based on weight, gender, and physical activity level.
 
+![Screenshot](ScreenshotCarories1.png)
+
+
 ## Description
 
 This app is developed as part of an assignment for the Information Technology course at Oulu University of Applied Sciences. It demonstrates various concepts in Android development using Jetpack Compose, including:
